@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi everyone! My name is Joedson Lopes Bomfim 
+## Hi everyone!
 <div align="center">
   <a href="https://github.com/Joedson-Bomfim">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Joedson-Bomfim&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Joedson-Bomfim&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <!--
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joedson-Bomfim&layout=compact&langs_count=7&theme=gotham"/>
+  -->
 </div>
 <div style="display: inline_block"><br>  
   <img align="center" alt="Icon HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -29,9 +31,11 @@ Here are some ideas to get you started:
   <img align="center" alt="Icon Javasript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ícon mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Ícon laravel" height="30" width="40" src="https://img.icons8.com/fluency/96/000000/laravel.png">
+  <!--
   <img align="center" alt="Ícon figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Ícon android com java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" alt="Ícon java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  -->
   <img align="right" alt="image" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif">
 </div>
   
