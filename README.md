@@ -31,7 +31,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Icon Javasript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ícon mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Ícon laravel" height="30" width="40" src="https://img.icons8.com/fluency/96/000000/laravel.png">
-  <img align="center" alt="Ícon sql server" height="30" width="40" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-8.png" title="Image from freeiconspng.com">
   <!--
   <img align="center" alt="Ícon figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Ícon android com java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
