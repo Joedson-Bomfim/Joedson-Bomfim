@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Ícon Wordpress" title="WordPress" height="30" width="40" src="https://img.icons8.com/color/512/wordpress.png">
   <img align="center" alt="Ícon PHP" title="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Icon Javasript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Icon Jquery" title="Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
   <img align="center" alt="Ícon mysql" title="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Ícon laravel" title="Laravel" height="30" width="40" src="https://img.icons8.com/fluency/96/000000/laravel.png">
   <!--
