@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/Joedson-Bomfim">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Joedson-Bomfim&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joedson-Bomfim&layout=compact&langs_count=7&theme=gotham&hide=Java"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joedson-Bomfim&layout=compact&hide=Java&theme=gotham"/>
 </div>
 <div style="display: inline_block"><br>  
   <img align="center" alt="Icon HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
